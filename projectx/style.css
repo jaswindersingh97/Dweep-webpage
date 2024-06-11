@@ -46,10 +46,14 @@ a{
 #right{
     text-align: end;
 }
-#submit{    background-color: black;
+#submit{
+    padding:10px;
+    background-color: black;
     color: white;
     border-radius: 5px;}
-#email{    border-radius: 7px;
+#email{
+    padding:10px;
+    border-radius: 7px;
     border: solid;}
 #shorttext{
     font-size:smaller
