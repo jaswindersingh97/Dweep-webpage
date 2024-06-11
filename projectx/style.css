@@ -1,7 +1,9 @@
 *{
-    padding: 10px;
+/*     padding: 10px; */
+    
 }
 body{
+    margin:0px;
     width: 100%;
     background-color: #FFCD9E;
     color:#282828;
